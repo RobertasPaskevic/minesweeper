@@ -1,0 +1,19 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prando": "^6.0.1",
+    "prompt": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
